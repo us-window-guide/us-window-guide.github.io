@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://your-windows-error-domain.example/sitemap.xml
